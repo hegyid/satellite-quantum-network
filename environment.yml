@@ -1,0 +1,13 @@
+name: satellite-quantum-network
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - openjdk=8
+  - orekit=13.1
+  - networkx=3.6
+  - matplotlib=3.10
+  - cartopy=0.25
+  - pandas=3.0
